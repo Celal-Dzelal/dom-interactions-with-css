@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Alt Text](img/demo.gif)
+![Alt Text](img/Demo.gif)
 
 ## ScreenShots
 
