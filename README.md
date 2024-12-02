@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Demo of the Project](./img/demo.gif)
+![Alt Text](./img/demo.gif)
 
 ## ScreenShots
 
