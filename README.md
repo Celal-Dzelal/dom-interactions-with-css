@@ -2,15 +2,15 @@
 
 ## Demo
 
-.\img\Demo.gif
+![Demo of the Project](./img/demo.gif)
 
 ## ScreenShots
 
-![Uygulama Ekran Görüntüsü](./img/secreenshot1.png)
+![Uygulama Ekran Görüntüsü](./img/screenshot1.png)
 
-![Uygulama Ekran Görüntüsü](./img/secreenshot2.png)
+![Uygulama Ekran Görüntüsü](./img/screenshot2.png)
 
-![Uygulama Ekran Görüntüsü](./img/secreenshot3.png)
+![Uygulama Ekran Görüntüsü](./img/screenshot3.png)
 
 ## Description
 
